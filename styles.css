@@ -53,8 +53,9 @@ h2 {
   cursor: pointer;
 }
 
-.about-section-content h1 {
+.head-one {
   font-family: "Poppins", sans-serif;
   font-weight: 100%;
   text-align: center;
+  display: block;
 }
